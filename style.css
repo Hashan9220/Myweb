@@ -18,7 +18,7 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: url("matrix.png");
+    background: #17202A;
     transition:0.5s;
 }
 header{
@@ -417,7 +417,7 @@ svg circle:nth-child(2){
 /*    background: white;*/
 /*}*/
 footer{
-    background: url("matrix.png");
+    background: #17202A;
     height: auto;
     width: 100%;
     padding-top: 40px;
@@ -466,7 +466,7 @@ footer{
     color: #04FA04;
 }
 .footer-bottom{
-    background: url("matrix.png");
+    background: #17202A;
     width: 100vw;
     padding: 20px 0;
     text-align: center;
